@@ -4,19 +4,19 @@
     <title>The Barber Theme</title>
     <description>Barber is a blog theme for Jekyll built by Thomas Vaeth for Samesies using HTML, Sass, and JavaScript.
 </description>
-    <link>/deltorohevia.github.io</link>
-    <atom:link href="hevia.github.io/deltoro/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 25 Dec 2019 18:00:57 -0500</pubDate>
-    <lastBuildDate>Wed, 25 Dec 2019 18:00:57 -0500</lastBuildDate>
-    <generator>Jekyll v3.8.5</generator>
+    <link>http://localhost:4000</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 25 Dec 2019 17:44:12 -0500</pubDate>
+    <lastBuildDate>Wed, 25 Dec 2019 17:44:12 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
     
       <item>
         <title>About me</title>
         <description>&lt;p&gt;All my life I’ve had a passion in reading and appreciating works of Fantasy, imagining every single detail scene-scene.   Today I try to combine all those influences and ideas into drawings that depict my own ideas, and not just through the Fantasy framework. With every artwork comes an unquenchable desire to make more and more. I am very thankful to have had such excellent teachers since dropping everything to start anew in San Diego, and I hope to take any opportunity to demonstrate it further. Thank you for taking a look at my Portfolio, and feel free to contact me below!&lt;/p&gt;
 </description>
         <pubDate>Mon, 16 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/16/Bio/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/16/Bio/</guid>
+        <link>http://localhost:4000/2017/10/16/Bio/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/16/Bio/</guid>
         
         
       </item>
@@ -26,8 +26,8 @@
         <description>
 </description>
         <pubDate>Fri, 13 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/13/single-origin-coffee/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/13/single-origin-coffee/</guid>
+        <link>http://localhost:4000/2017/10/13/single-origin-coffee/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/13/single-origin-coffee/</guid>
         
         
       </item>
@@ -37,8 +37,8 @@
         <description>
 </description>
         <pubDate>Thu, 12 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/12/butcher-vaporware-keytar/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/12/butcher-vaporware-keytar/</guid>
+        <link>http://localhost:4000/2017/10/12/butcher-vaporware-keytar/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/12/butcher-vaporware-keytar/</guid>
         
         
       </item>
@@ -48,8 +48,8 @@
         <description>
 </description>
         <pubDate>Wed, 11 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/11/unicorn-echo-park/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/11/unicorn-echo-park/</guid>
+        <link>http://localhost:4000/2017/10/11/unicorn-echo-park/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/11/unicorn-echo-park/</guid>
         
         
       </item>
@@ -59,8 +59,8 @@
         <description>
 </description>
         <pubDate>Tue, 10 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/10/disrupt-raw-denim/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/10/disrupt-raw-denim/</guid>
+        <link>http://localhost:4000/2017/10/10/disrupt-raw-denim/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/10/disrupt-raw-denim/</guid>
         
         
       </item>
@@ -70,8 +70,8 @@
         <description>
 </description>
         <pubDate>Mon, 09 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/09/lumbersexual/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/09/lumbersexual/</guid>
+        <link>http://localhost:4000/2017/10/09/lumbersexual/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/09/lumbersexual/</guid>
         
         
       </item>
@@ -81,8 +81,8 @@
         <description>
 </description>
         <pubDate>Sun, 08 Oct 2017 00:00:00 -0400</pubDate>
-        <link>hevia.github.io/deltoro/2017/10/08/brunch-swag/</link>
-        <guid isPermaLink="true">hevia.github.io/deltoro/2017/10/08/brunch-swag/</guid>
+        <link>http://localhost:4000/2017/10/08/brunch-swag/</link>
+        <guid isPermaLink="true">http://localhost:4000/2017/10/08/brunch-swag/</guid>
         
         
       </item>
